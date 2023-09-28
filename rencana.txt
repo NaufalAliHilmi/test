@@ -1,8 +1,11 @@
 mempelajari coding untuk menjadi frontend developer:
 * mempelajari html
 * mempelajari css
+ - mempelajari framework css
+  * bootstrap
+  * tailwind
 * mempelajari javascript
- - mempelajari framework java script: 
+ - mempelajari framework javascript
   * react
-  * vue
+  * angular
 * mempelajari git dan github
