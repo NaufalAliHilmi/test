@@ -1,1 +1,4 @@
 mempelajari coding untuk menjadi frontend developer:
+* mempelajari html
+* mempelajari css
+* mempelajari javascript
